@@ -1,9 +1,9 @@
-https://rbatus.github.io/CSS-Lab/task1-3
-https://rbatus.github.io/CSS-Lab/task4
-https://rbatus.github.io/CSS-Lab/task5
-https://rbatus.github.io/CSS-Lab/task6
-https://rbatus.github.io/CSS-Lab/task7
-https://rbatus.github.io/CSS-Lab/task8
-https://rbatus.github.io/CSS-Lab/task9
-https://rbatus.github.io/CSS-Lab/task10
-https://rbatus.github.io/CSS-Lab/task11
+Task 1-3 - https://rbatus.github.io/CSS-Lab/task1-3
+Task 4   - https://rbatus.github.io/CSS-Lab/task4
+Task 5   - https://rbatus.github.io/CSS-Lab/task5
+Task 6   - https://rbatus.github.io/CSS-Lab/task6
+Task 7   - https://rbatus.github.io/CSS-Lab/task7
+Task 8   - https://rbatus.github.io/CSS-Lab/task8
+Task 9   - https://rbatus.github.io/CSS-Lab/task9
+Task 10  - https://rbatus.github.io/CSS-Lab/task10
+Task 11  - https://rbatus.github.io/CSS-Lab/task11
