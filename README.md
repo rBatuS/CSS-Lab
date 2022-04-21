@@ -1,0 +1,9 @@
+https://rbatus.github.io/CSS-Lab/task1-3
+https://rbatus.github.io/CSS-Lab/task4
+https://rbatus.github.io/CSS-Lab/task5
+https://rbatus.github.io/CSS-Lab/task6
+https://rbatus.github.io/CSS-Lab/task7
+https://rbatus.github.io/CSS-Lab/task8
+https://rbatus.github.io/CSS-Lab/task9
+https://rbatus.github.io/CSS-Lab/task10
+https://rbatus.github.io/CSS-Lab/task11
